@@ -1,1 +1,1 @@
-web: java -jar target/estocaai-backend-1.0.0-SNAPSHOT.jar 
+web: java -jar target/estocaai-backend-0.0.1-SNAPSHOT.jar
